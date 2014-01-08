@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/0.jpeg</file>
+        <file>res/1.jpeg</file>
+        <file>res/2.jpeg</file>
+        <file>res/3.jpeg</file>
+        <file>res/4.jpeg</file>
+        <file>res/5.jpeg</file>
+        <file>res/6.jpeg</file>
+        <file>res/7.jpeg</file>
+        <file>res/8.jpeg</file>
+    </qresource>
+</RCC>
