@@ -80,5 +80,9 @@ string c1_to_string()
 
 string b_to_string()
 {
-    return "( + " + boost::lexical_cast<string>(rand() % 255) + bonus[rand() % 2] + ")";
+    stringstream ss;
+    int r = rand() % 255;
+    ss << r;
+    string s = ss.str();
+    return "( + " + s + bonus[rand() % 2] + ")";
 }

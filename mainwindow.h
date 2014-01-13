@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QTextCodec>
 #include <ctime>
 #include <cstdlib>
 #include <cstring>
